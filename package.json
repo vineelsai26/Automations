@@ -12,7 +12,7 @@
 		"dev": "yarn watch | nodemon --watch dist dist/index.js"
 	},
 	"dependencies": {
-		"octokit": "^2.0.10"
+		"octokit": "^2.0.14"
 	},
 	"devDependencies": {
 		"dotenv": "^16.0.3",
